@@ -39,7 +39,6 @@
                         </Grid>
                     </ViewCell>
                 </DataTemplate>
-
             </ListView.ItemTemplate>
         </ListView>
     </VerticalStackLayout>
